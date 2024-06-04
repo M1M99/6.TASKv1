@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\6.C#HomeWorkException\6.C#HomeWorkException\bin\Debug\net8.0\6.C#HomeWorkException.exe
+C:\Users\ASUS\source\repos\6.C#HomeWorkException\6.C#HomeWorkException\bin\Debug\net8.0\6.C#HomeWorkException.deps.json
+C:\Users\ASUS\source\repos\6.C#HomeWorkException\6.C#HomeWorkException\bin\Debug\net8.0\6.C#HomeWorkException.runtimeconfig.json
+C:\Users\ASUS\source\repos\6.C#HomeWorkException\6.C#HomeWorkException\bin\Debug\net8.0\6.C#HomeWorkException.dll
+C:\Users\ASUS\source\repos\6.C#HomeWorkException\6.C#HomeWorkException\bin\Debug\net8.0\6.C#HomeWorkException.pdb
+C:\Users\ASUS\source\repos\6.C#HomeWorkException\6.C#HomeWorkException\obj\Debug\net8.0\6.C#HomeWorkException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\6.C#HomeWorkException\6.C#HomeWorkException\obj\Debug\net8.0\6.C#HomeWorkException.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\6.C#HomeWorkException\6.C#HomeWorkException\obj\Debug\net8.0\6.C#HomeWorkException.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\6.C#HomeWorkException\6.C#HomeWorkException\obj\Debug\net8.0\6.C#HomeWorkException.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\6.C#HomeWorkException\6.C#HomeWorkException\obj\Debug\net8.0\6.C#HomeWorkException.dll
+C:\Users\ASUS\source\repos\6.C#HomeWorkException\6.C#HomeWorkException\obj\Debug\net8.0\refint\6.C#HomeWorkException.dll
+C:\Users\ASUS\source\repos\6.C#HomeWorkException\6.C#HomeWorkException\obj\Debug\net8.0\6.C#HomeWorkException.pdb
+C:\Users\ASUS\source\repos\6.C#HomeWorkException\6.C#HomeWorkException\obj\Debug\net8.0\6.C#HomeWorkException.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\6.C#HomeWorkException\6.C#HomeWorkException\obj\Debug\net8.0\ref\6.C#HomeWorkException.dll
